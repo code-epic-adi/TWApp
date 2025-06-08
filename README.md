@@ -65,50 +65,63 @@ TWApp is built upon a robust and scalable architecture, leveraging leading Andro
 -   **CameraX & Google Play Services Location**: Integrated for advanced functionalities such as attendance tracking, potentially incorporating facial recognition (currently in-progress) and precise location services.
 
 ---
-
 ## 📸 UI Showcase
 
-This section presents a visual representation of TWApp's various features across different user interfaces.
+This section offers a comprehensive visual tour of TWApp's key interfaces and functionalities, demonstrating the application's design and user experience.
 
-*Left Android Mobile demonstrates the Admin Interface, and Right Android Mobile demonstrates the Student Interface for comparative views.*
+*For comparative analysis, the Left Android Mobile illustrates the Admin Interface, while the Right Android Mobile showcases the Student Interface.*
 
-**Login Interface**
+---
+
+### Login Interface
+These screenshots present the secure and intuitive entry points for users to access the application based on their designated roles.<br>
 ![Screenshot 2025-06-08 073724](https://github.com/user-attachments/assets/fb47f8b1-69cc-4e99-b1ad-150231f8a2d0)
 ![Screenshot 2025-06-08 073733](https://github.com/user-attachments/assets/7c3d1eac-23d3-4843-a0c5-3656be02e4c7)
 
-**Dashboard**
+### Dashboard
+Observe the personalized main screen, dynamically adapting to display relevant information and quick access modules tailored to each user's role (Admin or Student).<br>
 ![Screenshot 2025-06-08 070812](https://github.com/user-attachments/assets/60ca0f40-8cf7-4c49-9c53-ec7bef0e7a43)
 
-**Attendance Manager**
+### Attendance Manager
+A dedicated interface for administrators to efficiently record, view, and manage NSS attendance data.<br>
 ![Screenshot 2025-06-08 070758](https://github.com/user-attachments/assets/fc1ca1c2-5f06-4df8-b856-01d8ba8f9b91)
 ![Screenshot 2025-06-08 072523](https://github.com/user-attachments/assets/4d8bdcac-6e31-4dad-a898-c7e5265d79f7)
 
-**Updates Section of Dashboard**
+### Updates Section of Dashboard
+This view highlights how administrators can disseminate important announcements and updates directly to users via the dashboard.<br>
 ![Screenshot 2025-06-08 070901](https://github.com/user-attachments/assets/450a8afd-542a-4e8b-91ea-151cece6b3cf)
 
-**Instruction Based Chatbot**
+### Instruction Based Chatbot
+Experience the interactive chatbot, designed to provide immediate, instruction-based assistance and information to users.<br>
 ![Screenshot 2025-06-08 070846](https://github.com/user-attachments/assets/6305196d-9168-4007-b696-11d7d87c332e)
 
-**Chat Feature**
+### Chat Feature
+These images showcase the real-time messaging capabilities, including both group and direct chat interfaces, along with integrated image sharing.<br>
 ![Screenshot 2025-06-08 070934](https://github.com/user-attachments/assets/20e4eaf2-3869-4ad0-82fb-d081b0efb64b)
 ![Screenshot 2025-06-08 071000](https://github.com/user-attachments/assets/0f27893d-61c1-4209-98ce-df37bc23d7f9)
 ![Screenshot 2025-06-08 071823](https://github.com/user-attachments/assets/b7d385cb-ffd0-4452-ad36-fc78a304d455)
 
-**Calendar**
+### Calendar
+A visual representation of the robust calendar system, illustrating both teaching schedules and general university events with clear date and event indicators.<br>
 ![Screenshot 2025-06-08 071933](https://github.com/user-attachments/assets/183c1f9b-19e0-4099-85cb-f342fac78b37)
 ![Screenshot 2025-06-08 071910](https://github.com/user-attachments/assets/9c06207a-e54f-4929-b01c-648b27ba1b07)
 
-**Schedule Manager**
+### Schedule Manager
+This administrative tool provides a dedicated interface for managing and organizing various schedules within the institution.<br>
 ![Screenshot 2025-06-08 071947](https://github.com/user-attachments/assets/df9c0c14-7877-418d-bb4c-ffffd32ac54d)
 
-**Interview Manager**
+### Interview Manager
+An exclusive administrative module designed for the streamlined management of interview processes.<br>
 ![Screenshot 2025-06-08 071956](https://github.com/user-attachments/assets/2323855a-6141-4c73-9379-9f071c3d772a)
 
-**Profile**
+### Profile
+Explore the personal profile section, where users can view their information, course codes, and assigned roles.<br>
 ![Screenshot 2025-06-08 072009](https://github.com/user-attachments/assets/be3973e6-6808-40b1-b8a9-802a4df2bcf6)
 
-**Library Section**
+### Resource Library
+A centralized hub for accessing various educational and NSS-related resources, including documents and images.<br>
 ![Screenshot 2025-06-08 072025](https://github.com/user-attachments/assets/42770417-15ee-41be-8cac-cbdb5c283481)
+
 ---
 
 **Core Contributors:**
