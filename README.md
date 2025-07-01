@@ -29,8 +29,11 @@ A versatile calendar system for organizing and tracking academic and NSS-related
 -   **Dual Tab View**:
     -   **Teaching Calendar**: Dedicated to managing class schedules and tracking leave applications, which is crucial for NSS program coordination.
     -   **Events Calendar**: Comprehensive tracking for university-wide events, NSS camps, workshops, and general meetings.
+      
 -   **Comprehensive Date Display**: The calendar grid consistently displays all dates for every month.
+  
 -   **Interactive Date Selection**: Users can tap on specific dates to view detailed event information, create new events, or manage leave applications (permission-based).
+  
 -   **Leave Application Status Indicators**: Clearly tags dates with pending, approved, or rejected leave applications, providing immediate visual cues for teaching staff and administrators.
 
 ### 🧰 Admin Toolkit
@@ -45,24 +48,31 @@ A centralized personal space and access point for essential resources:
 -   **Integrated Resource Viewer**: Provides seamless access to a digital library of documents and images relevant to courses or NSS activities.
 ---
 
+
 ## ⚙️ Core Technology Stack
 
 TWApp is built upon a robust and scalable architecture, leveraging leading Android development frameworks and cloud services:
 
 -   **Kotlin**: Utilized for its conciseness, safety, and interoperability, forming the backbone of the application logic.
+  
 -   **Firebase Suite**: A comprehensive backend-as-a-service (BaaS) solution providing:
     -   **Firebase Authentication**: Secure user identity management.
     -   **Cloud Firestore**: A flexible, NoSQL cloud database for data storage and synchronization.
     -   **Firebase Realtime Database**: For immediate data synchronization in real-time communication features.
     -   **Firebase Cloud Messaging (FCM)**: Enables push notifications for timely alerts.
     -   **Firebase Storage**: Securely stores user-generated content, including chat images.
+      
 -   **Android Jetpack Components**: Enhancing developer productivity and app quality:
     -   **MVVM (Model-View-ViewModel)**: Architectural pattern for separation of concerns and testability.
     -   **LiveData**: Observable data holders for lifecycle-aware UI updates.
     -   **Navigation Component**: Simplifies in-app navigation and streamlines user flows.
+      
 -   **Google Drive API**: Facilitates integration with cloud storage services for resource management.
+  
 -   **Glide & PhotoView**: Essential libraries for efficient image loading, caching, and enabling interactive features like pinch-to-zoom for images.
+  
 -   **CameraX & Google Play Services Location**: Integrated for advanced functionalities such as attendance tracking, potentially incorporating facial recognition (currently in-progress) and precise location services.
+
 
 ---
 ## 📸 UI Showcase
@@ -75,12 +85,13 @@ This section offers a comprehensive visual tour of TWApp's key interfaces and fu
 
 ### Login Interface
 These screenshots present the secure and intuitive entry points for users to access the application based on their designated roles.<br>
-![Screenshot 2025-06-08 073724](https://github.com/user-attachments/assets/fb47f8b1-69cc-4e99-b1ad-150231f8a2d0)
-![Screenshot 2025-06-08 073733](https://github.com/user-attachments/assets/7c3d1eac-23d3-4843-a0c5-3656be02e4c7)
+![Screenshot 2025-07-02 014533](https://github.com/user-attachments/assets/b7f6add4-8d80-4ecd-9a60-0408d76799e9)
+![Screenshot 2025-07-02 014541](https://github.com/user-attachments/assets/af67f269-3d1a-4d10-9750-3fbe076627b8)
 
 ### Dashboard
 Observe the personalized main screen, dynamically adapting to display relevant information and quick access modules tailored to each user's role (Admin or Student).<br>
-![Screenshot 2025-06-08 070812](https://github.com/user-attachments/assets/60ca0f40-8cf7-4c49-9c53-ec7bef0e7a43)
+![Screenshot 2025-07-02 011700](https://github.com/user-attachments/assets/1fb37683-a148-4656-a54e-c35a7c6dba29)
+
 
 ### Attendance Manager
 A dedicated interface for administrators to efficiently record, view, and manage NSS attendance data.<br>
@@ -97,7 +108,7 @@ Experience the interactive chatbot, designed to provide immediate, instruction-b
 
 ### Chat Feature
 These images showcase the real-time messaging capabilities, including both group and direct chat interfaces, along with integrated image sharing.<br>
-![Screenshot 2025-06-08 070934](https://github.com/user-attachments/assets/20e4eaf2-3869-4ad0-82fb-d081b0efb64b)
+![Screenshot 2025-07-02 011729](https://github.com/user-attachments/assets/31dad9ee-ad85-45bf-ade6-21924bc029b8)
 ![Screenshot 2025-06-08 071000](https://github.com/user-attachments/assets/0f27893d-61c1-4209-98ce-df37bc23d7f9)
 ![Screenshot 2025-06-08 071823](https://github.com/user-attachments/assets/b7d385cb-ffd0-4452-ad36-fc78a304d455)
 
@@ -108,7 +119,9 @@ A visual representation of the robust calendar system, illustrating both teachin
 
 ### Schedule Manager
 This administrative tool provides a dedicated interface for managing and organizing various schedules within the institution.<br>
-![Screenshot 2025-06-08 071947](https://github.com/user-attachments/assets/df9c0c14-7877-418d-bb4c-ffffd32ac54d)
+![Screenshot 2025-07-02 011748](https://github.com/user-attachments/assets/e90d17ab-48a4-411c-9260-d6ed7d329a9d)
+![Screenshot 2025-07-02 011800](https://github.com/user-attachments/assets/9144e583-8c67-43a2-a4a7-3c39e60e8d81)
+
 
 ### Interview Manager
 An exclusive administrative module designed for the streamlined management of interview processes.<br>
@@ -116,11 +129,11 @@ An exclusive administrative module designed for the streamlined management of in
 
 ### Profile
 Explore the personal profile section, where users can view their information, course codes, and assigned roles.<br>
-![Screenshot 2025-06-08 072009](https://github.com/user-attachments/assets/be3973e6-6808-40b1-b8a9-802a4df2bcf6)
+![Screenshot 2025-07-02 014402](https://github.com/user-attachments/assets/162d6408-6415-4562-9db4-cdf10f945e8b)
 
 ### Resource Library
 A centralized hub for accessing various educational and NSS-related resources, including documents and images.<br>
-![Screenshot 2025-06-08 072025](https://github.com/user-attachments/assets/42770417-15ee-41be-8cac-cbdb5c283481)
+![Screenshot 2025-07-02 011819](https://github.com/user-attachments/assets/7387b9dd-1169-4648-be12-e71cd4056869)
 
 ---
 
